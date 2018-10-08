@@ -38,11 +38,11 @@ AxGlyph is designed with Love, it aims to give all the fellow scholars and stude
 AxGlyph is the art of vector graph maker. It is designed with love, passion and expertise. It has all kinds of functionalities which make you draw all kinds of vector graphs. Key features include flow chart, circuit diagram, chemical expressions, coordinate graph, 3D objects and even animations. Visit our FAQ page to get instant help. Visit our Support Forum to open an issue.
 
 ## Resources
-* Latest Version: AxGlyph_Setup_Win7_8_10_en
-* Changelog: AxGlyph Changelog
-* Manual: AxGlyph Help Manual
-* Video Tutorial: AxGlyph Video Tutorial
+* Latest Version: [AxGlyph_Setup_Win7_8_10_en](https://github.com/loongmxbt/AxGlyph/releases)
+* Changelog: [AxGlyph Changelog](https://www.axsoft.co/changelog)
+* Manual: [AxGlyph Help Manual](https://www.axsoft.co/public/file/axglyph-help.pdf)
+* Video Tutorial: [AxGlyph Video Tutorial](https://www.youtube.com/watch?v=qwu83XACNRU&list=PLVdtkoQaTxQ074esIbWS48Q1VVgvkSccb)
 * Sales: dragonszy@gmail.com
-* Slack: AxGlyph Channel
+* Slack: [AxGlyph Channel](https://axsoft.slack.com/)
 * Platform: Win 10, Win 8, Win 7, Vista
 * Microsoft Office 2010-2016, Office 365, WPS Office 2016
